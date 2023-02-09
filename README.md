@@ -4,8 +4,9 @@
 
 ## Description
 
-I developed this project because of our automata theory lesson. First of all we convert the given regex to dfa.
-We are using syntax tree during the conversion process.(Conversion from regex to dfa was taken from ![alirezakay's repo](https://github.com/alirezakay/RegexToDFA))Then we produce words suitable for the alphabet and check them on dfa. We list the appropriate ones.I did write more explanation on my own site. ![You can check my writing on here](https://scriptyuvasi.com/regular-expressiona-gore-kelime-ureten-program/)
+I developed this project because of our automata theory lesson. First of all we convert the given regex to dfa.We are using syntax tree during the conversion process(Conversion from regex to dfa was taken from [alirezakay's repo](https://github.com/alirezakay/RegexToDFA)).Then we produce words suitable for the alphabet and check them on dfa. We list the appropriate ones.
+
+I did write more explanation on my own site. [You can check my writing on here](https://scriptyuvasi.com/regular-expressiona-gore-kelime-ureten-program/)
 
 ## Images
 ![rule-end](https://user-images.githubusercontent.com/73299153/217812271-9ce954f5-80ab-4aa8-9aa8-a4741103f897.JPG)
