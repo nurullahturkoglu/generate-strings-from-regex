@@ -9,6 +9,7 @@ I developed this project because of our automata theory lesson. First of all we 
 I did write more explanation on my own site. [You can check my writing on here](https://scriptyuvasi.com/regular-expressiona-gore-kelime-ureten-program/)
 
 ## Images
+![product-word](https://raw.githubusercontent.com/nurullahturkoglu/generate-strings-from-regex/main/product_word.JPG)
 ![rule-end](https://user-images.githubusercontent.com/73299153/217812271-9ce954f5-80ab-4aa8-9aa8-a4741103f897.JPG)
 
 ![star-3](https://user-images.githubusercontent.com/73299153/217812444-e81147ce-9719-4147-b918-306c7bf6f037.JPG)
